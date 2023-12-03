@@ -2,7 +2,7 @@
 
 
 # GSP1154
-[![](https://github.com/CodingWithHardik/CodingWithHardik/blob/main/img/subscribe_button.png)]((https://www.youtube.com/@sarc1608))
+[![]]((https://www.youtube.com/@sarc1608))
 
 >search ```Vertex AI API``` > Enable
 >search ```Language``` > + TEXT PROMPT > STRUCTURED > Paste the below line in Test (input)
