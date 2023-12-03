@@ -1,9 +1,9 @@
 # ARC122
->🚨 [PLEASE SUBSCRIBE OUR CHANNEL CLOUDHUSTLER](https://www.youtube.com/@cloudhustlers) **&** [JOIN OUR COMMUNITY](https://chat.whatsapp.com/KBfUcSleGGEFf2Xvvm8FW3)
+>🚨 [PLEASE SUBSCRIBE OUR CHANNEL SARC](([https://www.youtube.com/@sarc1608])) **&** [JOIN OUR COMMUNITY](https://www.instagram.com/_.sarc._/)
 ## Run in cloudshell
 ```cmd
-gcloud alpha services api-keys create --display-name="CloudHustlers" 
-KEY_NAME=$(gcloud alpha services api-keys list --format="value(name)" --filter "displayName=CloudHustlers")
+gcloud alpha services api-keys create --display-name="arcade" 
+KEY_NAME=$(gcloud alpha services api-keys list --format="value(name)" --filter "displayName=arcade")
 export API_KEY=$(gcloud alpha services api-keys get-key-string $KEY_NAME --format="value(keyString)")
 export PROJECT_ID=$(gcloud config list --format 'value(core.project)')
 gsutil acl ch -u allUsers:R gs://$PROJECT_ID-bucket/manif-des-sans-papiers.jpg
