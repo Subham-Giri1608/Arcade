@@ -1,5 +1,5 @@
 # GSP277
->🚨 [PLEASE SUBSCRIBE OUR CHANNEL SARC]((https://www.youtube.com/@sarc1608)) **&** [JOIN OUR COMMUNITY]
+>🚨 [PLEASE SUBSCRIBE OUR CHANNEL SARC]([https://www.youtube.com/@sarc1608]) **&** [JOIN OUR COMMUNITY]
 >(https://www.instagram.com/_.sarc._/)
 ## Run in cloudshell
 ```cmd
