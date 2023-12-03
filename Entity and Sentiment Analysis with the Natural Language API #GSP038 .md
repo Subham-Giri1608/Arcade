@@ -1,5 +1,5 @@
 # GSP038
->🚨 [PLEASE SUBSCRIBE OUR CHANNEL CLOUDHUSTLER](https://www.youtube.com/@cloudhustlers) **&** [JOIN OUR COMMUNITY](https://chat.whatsapp.com/KBfUcSleGGEFf2Xvvm8FW3)
+>🚨 [PLEASE SUBSCRIBE OUR CHANNEL SARC](([https://www.youtube.com/@sarc1608])) **&** [JOIN OUR COMMUNITY](https://www.instagram.com/_.sarc._/)
 ## CREATE AN API_KEY > APIs & Services > Credentials > Create Credentials > API key
 ## Run in cloudshell 
 ```cmd
@@ -8,8 +8,8 @@ gcloud beta compute ssh  linux-instance
 ### Press Y Enter > Enter > Enter > Press N Enter
 ```cmd
 gcloud services enable apikeys.googleapis.com
-gcloud alpha services api-keys create --display-name="CloudHustlers" 
-KEY_NAME=$(gcloud alpha services api-keys list --format="value(name)" --filter "displayName=CloudHustlers")
+gcloud alpha services api-keys create --display-name="arcade" 
+KEY_NAME=$(gcloud alpha services api-keys list --format="value(name)" --filter "displayName=arcade")
 API_KEY=$(gcloud alpha services api-keys get-key-string $KEY_NAME --format="value(keyString)")
 echo $API_KEY
 touch request.json
