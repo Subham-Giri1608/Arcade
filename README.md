@@ -2,14 +2,14 @@
 
 
 # GSP1154
-[![](https://github.com/CodingWithHardik/CodingWithHardik/blob/main/img/subscribe_button.png)](https://www.youtube.com/@CloudHustlers)
+[![](https://github.com/CodingWithHardik/CodingWithHardik/blob/main/img/subscribe_button.png)]((https://www.youtube.com/@sarc1608))
 
 >search ```Vertex AI API``` > Enable
 >search ```Language``` > + TEXT PROMPT > STRUCTURED > Paste the below line in Test (input)
 ```cmd
 It was a time well spent!
 ```
->select the model as ```text-bison@001``` > Submit > Save > Prompt name ```Hustler1```
+>select the model as ```text-bison@001``` > Submit > Save > Prompt name ```arcade```
 ### Click Language 
 >TEXT CHAT > add the below line in Context field
 ```cmd
@@ -22,4 +22,4 @@ You only respond with "Have you tried turning it off and on again?" to any queri
 ```cmd
 My computer is so slow
 ```
-> Submit > Save > Prompt name ```Hustler2```
+> Submit > Save > Prompt name ```arcade2```
